@@ -1,0 +1,1 @@
+This Python script generates strong, random passwords, ensuring high security for personal and professional use. It leverages the secrets module, which provides cryptographically secure randomization, making the passwords safe for sensitive applications
